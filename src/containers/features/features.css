@@ -153,26 +153,6 @@ background-blend-mode: hard-light;
 
 
 
-/*@media(min-width:991px)
-{
-  section 
-  {
-    padding-top:15vw;
-  }
-  section::before 
-  {
-     left: 50%;
-      width: 30vw;
-  }
-  .card-pic 
-  {
-   position:absolute;
-    left:-6vw;
-    top:-5vw;
-    margin:0; 
-  }
-}
-*/
 h5
 {
   font-family: var(--font-family);
@@ -236,7 +216,6 @@ h5
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
-  /*  margin-left: 2.5rem;*/
     justify-content: flex-start;
     align-items: center;
  }

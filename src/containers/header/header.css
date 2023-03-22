@@ -110,25 +110,7 @@
     position: relative;
 }
 
-/*.gpt3__header-image::after{
-  content: '';
-  border-radius: 290px;
-  display: block;
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%;
-  background-image: url(../../assets/blog01.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-  z-index: 1;
-    mask-image: radial-gradient(
-    farthest-side,
-    transparent calc(65% - var(--border)),
-    #fff calc(150% - var(--border) + 100px)
-  );
-}*/
+
 
 .gpt__header-image img {
   border-radius: 99px;
