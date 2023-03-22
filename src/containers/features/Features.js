@@ -30,10 +30,10 @@ const Features = () => {
                     nidzharmahail@gmail.com
                   </h5>
                   <div class="line"></div>
-                <a href="#parent_container" class="fa fa-facebook"></a>
-                <a href="#parent_container" class="fa fa-twitter"></a>
-                <a href="#parent_container" class="fa fa-linkedin"></a>
-                <a href="#parent_container" class="fa fa-instagram"></a>
+                <a href="https://caps-3-hehe.vercel.app/" class="fa fa-facebook"></a>
+                <a href="https://caps-3-hehe.vercel.app/" class="fa fa-twitter"></a>
+                <a href="https://nidzzone.github.io/webportfolio/" class="fa fa-linkedin"></a>
+                <a href="https://nidzzone.github.io/webportfolio/" class="fa fa-instagram"></a>
                 </div>
             </div>
             </div>
