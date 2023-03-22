@@ -11,7 +11,7 @@ const Features = () => {
 		<div>
 			
 		<section>
-	<div class="container">
+	<div class="container" id="parent_container">
 		<div class="row justify-content-center">
       
       
@@ -30,10 +30,10 @@ const Features = () => {
                     nidzharmahail@gmail.com
                   </h5>
                   <div class="line"></div>
-                <a href="#" class="fa fa-facebook"></a>
-                <a href="#" class="fa fa-twitter"></a>
-                <a href="#" class="fa fa-linkedin"></a>
-                <a href="#" class="fa fa-instagram"></a>
+                <a href="#parent_container" class="fa fa-facebook"></a>
+                <a href="#parent_container" class="fa fa-twitter"></a>
+                <a href="#parent_container" class="fa fa-linkedin"></a>
+                <a href="#parent_container" class="fa fa-instagram"></a>
                 </div>
             </div>
             </div>

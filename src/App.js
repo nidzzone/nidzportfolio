@@ -2,7 +2,6 @@ import React from 'react'
 import './App.css'
 
 import Brand from './components/brand/Brand'
-import Feature from './components/feature/Feature'
 import Navbar from './components/navbar/Navbar'
 
 import {  Features, Footer, Header, Projects } from './containers'
